@@ -1,0 +1,10 @@
+.registered
+.DS_Store
+*.swp
+build/
+bin/
+lib/
+*.pcd
+*.pyc
+*.so
+*.dylib
